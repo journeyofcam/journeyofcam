@@ -1,0 +1,16 @@
+body {
+font-family: sans-serif;
+background-image: url("http://digital-art-gallery.com/oid/56/1600x1000_10486_Menipus_2d_cartoon_octopus_fish_picture_image_digital_art.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+color: white;
+}
+h1 {
+	font-family: "Comic Sans MS";
+}
+h3 a { 
+	color: green;
+}
+* {cursor: url(http://cur.cursors-4u.net/nature/nat-7/nat699.cur), progress !important;}
+h5 {font-size: 200%;
+}
